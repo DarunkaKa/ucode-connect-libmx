@@ -11,7 +11,6 @@
 #include <malloc/malloc.h>
 #include <wchar.h>
 
-
 //utils pack
 void mx_printchar(char c);
 void mx_print_unicode(wchar_t c);
